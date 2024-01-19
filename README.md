@@ -11,4 +11,4 @@ Vamos juntos trilhar o caminho do crescimento financeiro!
 
 Sinta-se à vontade para ajustar conforme suas preferências e adicionar elementos que considerar relevantes para o seu público-alvo.
 
-<img src"https://raw.githubusercontent.com/henriquetourinho/muquirana.github.io/main/media/v1.webp">
+<img src="https://raw.githubusercontent.com/henriquetourinho/muquirana.github.io/main/media/v1.webp">
