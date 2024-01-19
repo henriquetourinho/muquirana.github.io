@@ -1,0 +1,87 @@
+
+
+
+
+
+div.gallery {
+  margin: 2px;
+  border: 1px solid #0060ef;
+  background: #0060ef;
+  float: left;
+  width: 400;
+}
+
+div.gallery:hover {
+  border: 1px solid #fdc42d;
+}
+
+div.gallery img {
+  width: 300px;
+  height: 160px;
+}
+
+div.desc {
+    padding: 10px;
+    text-align: center;
+    background: #0060ef;
+    font-weight: bolder;
+    text-transform:uppercase
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
